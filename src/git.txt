@@ -1,0 +1,11 @@
+echo "# AngularJS" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/shaijukumar/TeamSite.git
+git push -u origin master
+
+
+Git add . 
+git commit -m "Change2"
+git push origin master
